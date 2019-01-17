@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Ash",
+    "image": "https://vignette.wikia.nocookie.net/warframe/images/6/64/AshLocustDarkGlyph.png/revision/latest?cb=20170115061241",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "Atlas",
+    "image": "https://vignette.wikia.nocookie.net/warframe/images/5/5e/AtlasDarkGlyph.png/revision/latest?cb=20170115061244",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "Banshee",
+    "image": "https://vignette.wikia.nocookie.net/warframe/images/c/ca/BansheeDarkGlyph.png/revision/latest?cb=20170115061250",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "Chroma",
+    "image": "https://vignette.wikia.nocookie.net/warframe/images/2/2e/ChromaDarkGlyph.png/revision/latest?cb=20170115061257",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "Ember",
+    "image": "https://vignette.wikia.nocookie.net/warframe/images/5/5b/EmberDarkGlyph.png/revision/latest?cb=20170115061302",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "Equinox",
+    "image": "https://vignette.wikia.nocookie.net/warframe/images/b/be/EquinoxDarkGlyph.png/revision/latest?cb=20170115061309",
+    "count": 0
+  },
+  {
+    "id": 7,
+    "name": "Excalibur",
+    "image": "https://vignette.wikia.nocookie.net/warframe/images/9/9d/ExcaliburDarkGlyph.png/revision/latest?cb=20170115061311",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "Ibara",
+    "image": "https://vignette.wikia.nocookie.net/warframe/images/9/9f/IvaraDarkGlyph.png/revision/latest?cb=20170115061329",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "Loki",
+    "image": "https://vignette.wikia.nocookie.net/warframe/images/5/52/LokiDarkGlyph.png/revision/latest?cb=20170115061339",
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "Limbo",
+    "image": "https://vignette.wikia.nocookie.net/warframe/images/b/b2/LimboDarkGlyph.png/revision/latest?cb=20170115061337",
+    "count": 0
+  },
+  {
+    "id": 11,
+    "name": "Mesa",
+    "image": "https://vignette.wikia.nocookie.net/warframe/images/5/52/LokiDarkGlyph.png/revision/latest?cb=20170115061339",
+    "count": 0
+  },
+  {
+    "id": 12,
+    "name": "Nidus",
+    "image": "https://vignette.wikia.nocookie.net/warframe/images/8/85/NidusDarkGlyph.png/revision/latest?cb=20170115061354",
+    "count": 0
+  }
+]
